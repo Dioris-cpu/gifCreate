@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gifcreate-dev-192520-authRole",
+      "UnauthRoleArn": "arn:aws:iam::492541581673:role/amplify-gifcreate-dev-192520-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::492541581673:role/amplify-gifcreate-dev-192520-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-gifcreate-dev-192520-deployment",
+      "UnauthRoleName": "amplify-gifcreate-dev-192520-unauthRole",
+      "StackName": "amplify-gifcreate-dev-192520",
+      "StackId": "arn:aws:cloudformation:us-east-1:492541581673:stack/amplify-gifcreate-dev-192520/069728b0-1587-11eb-99d8-0a9564c9a859",
+      "AmplifyAppId": "d3gek2l5cvbthk"
+    }
+  }
+}

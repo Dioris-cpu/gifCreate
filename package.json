@@ -1,0 +1,28 @@
+{
+  "name": "gifCreate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  "start": "parcel index.html",
+   "build":  "build index.html "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dioris-cpu/gifCreate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dioris-cpu/gifCreate/issues"
+  },
+  "homepage": "https://github.com/Dioris-cpu/gifCreate#readme",
+  "dependencies": {
+    "aws-amplify": "^3.3.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3"
+  }
+}
