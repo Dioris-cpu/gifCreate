@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-  "start": "parcel index.html",
-   "build":  "build index.html "
+    "start": "parcel index.html",
+    "build": "build index.html "
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,7 @@
     "aws-amplify": "^3.3.4"
   },
   "devDependencies": {
-    "babel-core": "^6.26.3"
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0"
   }
 }
